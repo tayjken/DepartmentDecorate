@@ -1,1 +1,39 @@
+#StudioArt{
+     background-color: lavender;
+}
 
+#Economics{
+    background-color: lavender;
+}
+#Politics{
+    background-color: lavender;
+}
+#ComputerScience{
+    background-color: lavender;
+}
+#Mathematics{
+    background-color: lavender;
+}
+#landing{
+    background-color:lightcyan;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border:1px solid black;
+}
+table{
+    background-color: powderblue;
+}
+table{
+    color: darkblue;
+}
+h1{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+}
+p{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+}  

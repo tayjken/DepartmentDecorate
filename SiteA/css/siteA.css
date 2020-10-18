@@ -1,1 +1,40 @@
 
+#StudioArt{
+     background-color: pink;
+}
+
+#Economics{
+    background-color: lightblue;
+}
+#Politics{
+    background-color: honeydew;
+}
+#ComputerScience{
+    background-color: cornsilk;
+}
+#Mathematics{
+    background-color:thistle;
+}
+#landing{
+    background-color:peachpuff;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border:1px solid black;
+}
+table{
+    background-color: darkgray;
+}
+table{
+    color: whitesmoke;
+}
+h1{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+}
+p{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+}  
